@@ -56,8 +56,9 @@
         -->
         <!-- frameworks 
         <framework src="CoreBluetooth.framework" />
-        -->
+        
     </platform>
+    -->
 
     <platform name="wp8">
         <config-file target="config.xml" parent="/*">
